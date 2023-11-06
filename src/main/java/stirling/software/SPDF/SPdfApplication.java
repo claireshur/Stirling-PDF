@@ -76,7 +76,7 @@ public class SPdfApplication {
         }
         String url = "http://localhost:" + port;
         System.out.println("Navigate to " + url);
-        System.out.println("done");
+        System.out.println("done2");
     }
     
     
